@@ -1,1 +1,0 @@
-Time Stamp,Inlet Number,P (mbars),T (degC),COS (ppb),H2O (ppm),CO2 (ppm),Diff. COS (ppb),Mean H2O (ppm),Mean CO2 (ppm),DiffSpec Species0,DiffSpec Species2,DiffSpec Chi2,TEC Sink Temp (degC),Wall Code,Latitude,Longitude
